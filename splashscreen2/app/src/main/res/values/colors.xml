@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Palette (Often defined by Material Theme Builder or default projects) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colors for your Application Theme (referenced in themes.xml) -->
+    <color name="primary_color">#FF6200EE</color>    <!-- Main brand color -->
+    <color name="primary_dark">#FF3700B3</color>     <!-- Darker shade of primary color (often for status bar) -->
+    <color name="accent_color">#FF03DAC5</color>      <!-- Accent color for UI elements -->
+
+    <!-- Colors for Layouts (e.g., activity_main.xml) -->
+    <color name="background_color">#FFF5F5F5</color> <!-- Background for your main activity ScrollView -->
+    <color name="text_color">#FF212121</color>       <!-- Default text color for result TextView -->
+
+    <!-- Colors for Specific UI Components -->
+    <color name="card_background">#FFFFFFFF</color>   <!-- Background for cards or result area -->
+
+    <!-- Colors for Splash Screen -->
+    <color name="splash_background_color">#FFFFFFFF</color> <!-- Background color for your splash screen -->
+
+</resources>
